@@ -1,0 +1,14 @@
+</body><title>my first page</title>
+<body>
+<h1> Information science </h1> 
+<h2> Computer science </h2>
+<h3> Architecture </h3>
+<h4> interior designing </h4>
+<h5> electronic communication </h5>
+<h6> commercial practice </h
+</html>
+<html>
+<head> 
+6>
+
+
